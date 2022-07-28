@@ -16,4 +16,4 @@ Web technologies & tools I use:
 
 
 ## See also my link:
-[title](https://xzitt.space)
+[Xzitt](https://xzitt.space)
