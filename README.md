@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hello !
 
-<!--
-**Dodkes/Dodkes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a hobby programmer, that like to find solutions and simplicity.
 
-Here are some ideas to get you started:
+Web technologies & tools I use:
+![alt](icons/html.svg)
+![alt](icons/css.svg)
+![alt](icons/javascript.svg)
+![alt](icons/typescript.svg)
+![alt](icons/react.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![alt](icons/linux.svg)
+![alt](icons/github.svg)
+![alt](icons/vscode.svg)
+
+
+## See also my link:
+[title](https://xzitt.space)
