@@ -15,5 +15,5 @@ Web technologies & tools I use:
 ![alt](icons/vscode.svg)
 
 
-## See also my link:
+## See also my current project:
 [Xzitt](https://xzitt.space)
