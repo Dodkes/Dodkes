@@ -1,6 +1,6 @@
 ## Hello !
 
-I'm a hobby programmer, that like to find solutions and simplicity.
+I'm a hobby programmer, focused on simple solutions & automation.
 
 Web technologies & tools I use:
 ![alt](icons/html.svg)
