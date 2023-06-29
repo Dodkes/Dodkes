@@ -13,7 +13,3 @@ Web technologies & tools I use:
 ![alt](icons/linux.svg)
 ![alt](icons/github.svg)
 ![alt](icons/vscode.svg)
-
-
-## See also my current project:
-[Xzitt](https://xzitt.space)
