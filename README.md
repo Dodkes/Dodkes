@@ -8,7 +8,8 @@ Web technologies & tools I use:
 ![alt](icons/javascript.svg)
 ![alt](icons/typescript.svg)
 ![alt](icons/react.svg)
-
+![alt](mysql.svg)
+![alt](prisma-2.svg)
 
 ![alt](icons/linux.svg)
 ![alt](icons/github.svg)
