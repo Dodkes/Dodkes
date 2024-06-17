@@ -1,6 +1,4 @@
-## Hello !
-
-I'm a hobby programmer, focused on simple solutions & automation.
+## Ciao !
 
 Web technologies & tools I use:
 ![alt](icons/html.svg)
