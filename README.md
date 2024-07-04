@@ -6,7 +6,7 @@ Web technologies & tools I use:
 ![alt](icons/javascript.svg)
 ![alt](icons/typescript.svg)
 ![alt](icons/react.svg)
-
+ 
 ![alt](icons/linux.svg)
 ![alt](icons/github.svg)
 ![alt](icons/vscode.svg)
