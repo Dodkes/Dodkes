@@ -1,6 +1,6 @@
 ## Ciao !
 
-Web technologies & tools I use:
+My Tech Stack:
 
 [![alt](icons/react.svg)](https://react.dev/)
 [![alt](icons/typescript.svg)](https://www.typescriptlang.org/)
