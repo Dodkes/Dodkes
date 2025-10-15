@@ -1,6 +1,9 @@
-## Ciao !
+# 👋 Hi, I'm Dodkes
 
-My Tech Stack:
+I'm a **Software Engineer** passionate about building useful and creative projects.  
+I don’t limit myself to a single stack. 🚀
+
+#### 🧰 Tech & Tools
 
 [![alt](icons/react.svg)](https://react.dev/)
 [![alt](icons/typescript.svg)](https://www.typescriptlang.org/)
@@ -18,3 +21,7 @@ My Tech Stack:
 ![alt](icons/hetzner.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dodkes&layout=compact&theme=tokyonight&hide=html,javascript)
+
+> The best way to learn is to build.
+
+> Limits are only in your mind.
