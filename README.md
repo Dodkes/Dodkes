@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Dodkes
 
-I'm a **Software Engineer** passionate about building useful and creative projects.  
-I don’t limit myself to a single stack. 🚀.  
-Best way to learn is to build. 🔨
+**Software Engineer** passionate about building useful and creative projects.  
 
 #### 🧰 Tech & Tools
 
@@ -19,5 +17,3 @@ Best way to learn is to build. 🔨
 ![alt](icons/github.svg)
 ![alt](icons/vscode.svg)
 ![alt](icons/hetzner.svg)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dodkes&layout=compact&theme=tokyonight&hide=html,javascript)
