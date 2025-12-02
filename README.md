@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dodkes
 
-**Software Engineer** passionate about building useful and creative projects.  
+**Software Engineer** passionate about building useful and creative projects.
 
 #### 🧰 Tech & Tools
 
@@ -17,9 +17,6 @@
 ![alt](icons/github.svg)
 ![alt](icons/vscode.svg)
 ![alt](icons/hetzner.svg)
-<<<<<<< HEAD
 ![alt](icons/docker.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dodkes&layout=compact&theme=tokyonight&hide=html,javascript)
-=======
->>>>>>> 769a2765bfb7ec03fcf1e2eed0f8d239143e3187
