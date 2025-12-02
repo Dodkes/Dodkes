@@ -18,5 +18,3 @@
 ![alt](icons/vscode.svg)
 ![alt](icons/hetzner.svg)
 ![alt](icons/docker.svg)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dodkes&layout=compact&theme=tokyonight&hide=html,javascript)
