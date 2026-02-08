@@ -18,3 +18,4 @@
 ![alt](icons/vscode.svg)
 ![alt](icons/hetzner.svg)
 ![alt](icons/docker.svg)
+[![alt](icons/bun.svg)](https://bun.com/docs)
